@@ -1,6 +1,7 @@
 # OpenSCAD-Enclosure
-A script for the OpenSCAD software package, that creates  enclosures for electronic projects like this:
+
 <img src=https://github.com/astromikemerri/OpenSCAD-Enclosure/blob/main/SampleBox.JPG width=200 align=left>
+A script for the OpenSCAD software package, that creates  enclosures for electronic projects like this:
 
 These rectangular boixes have removable lids and bases.  As well as being able to specify the interior dimensions of the box and other parameters like the wall thickness, the user can also specify rectangular and circular apertures in any of the walls of the box.
 
