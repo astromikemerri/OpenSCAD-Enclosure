@@ -1,6 +1,6 @@
 # OpenSCAD-Enclosure
 
-<img src=https://github.com/astromikemerri/OpenSCAD-Enclosure/blob/main/SampleBox.JPG width=200 align=left>
+<img src=https://github.com/astromikemerri/OpenSCAD-Enclosure/blob/main/SampleBox.JPG width=200 align=right>
 A script for the OpenSCAD software package that creates an enclosure for an electronics project.
 
 <br>
